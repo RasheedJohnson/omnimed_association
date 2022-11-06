@@ -52,6 +52,6 @@ app.get('/faq', function (req, res) {
 
 
 
-app.listen(port, function () {
+app.listen(process.env.PORT || port, function () {
     console.log('Server started on port:' + port);
 });
