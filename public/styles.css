@@ -1,0 +1,17 @@
+.conolo {
+    height: 10px;
+    width: 10px;
+    background-color: blue;
+}
+
+#bob {
+    height: 10px;
+    width: 10px;
+    background-color: blue;
+}
+
+.cards:hover{
+
+    box-shadow: 5px 6px 6px 2px #e9ecef;
+    transform: scale(1.1);
+}

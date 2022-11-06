@@ -1,0 +1,15 @@
+{
+  "name": "omnimed_site_a",
+  "version": "1.0.0",
+  "description": "'Omni-med test site. To be edited or recreated in future.'",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "'Rasheed Johnson'",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
